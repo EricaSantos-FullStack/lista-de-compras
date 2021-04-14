@@ -1,6 +1,6 @@
 # Lista de compras
 ## 📜 Lista de compras feita no React usando Hooks – useState
-  Aqui você conseguirá criar a sua lista de compras e ainda excluir todos os items que desejar.
+  Aqui você conseguirá criar a sua lista de compras e ainda excluir todos os items que desejar. </br>
   📌 Fase 1 do projeto
 
 ### Resultado:
