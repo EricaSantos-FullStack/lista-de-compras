@@ -51,6 +51,13 @@ const limparLista = () => {
 ### Status:
 ✔ Concluido!
 
+### Comandos - GitHub Desktop
+~~~
+$ git add .
+$ git commit -m "nome da alteração"
+$ git push
+~~~
+
 ### Deploy: 
 https://ericasantos-fullstack.github.io/lista-de-compras/
 
